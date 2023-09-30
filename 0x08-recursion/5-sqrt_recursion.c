@@ -22,11 +22,7 @@ int _sqrt_recursion(int n)
  * @i: iterator
  *
  * Return: the resulting square root
-<<<<<<< HEAD
  */
-=======
- *        */
->>>>>>> db2c661b466713d83334386f5061f292eb7339cf
 int actual_sqrt_recursion(int n, int i)
 {
 	if (i * i > n)
