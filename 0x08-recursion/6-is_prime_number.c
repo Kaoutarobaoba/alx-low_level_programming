@@ -21,7 +21,11 @@ int is_prime_number(int n)
  * @i: iterator
  *
  * Return: 1 if n is prime, 0 if not
+<<<<<<< HEAD
  */
+=======
+ *       */
+>>>>>>> db2c661b466713d83334386f5061f292eb7339cf
 int actual_prime(int n, int i)
 {
 	if (i == 1)
